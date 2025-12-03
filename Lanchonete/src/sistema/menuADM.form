@@ -87,7 +87,7 @@
           <Group type="102" alignment="0" attributes="0">
               <EmptySpace min="-2" pref="88" max="-2" attributes="0"/>
               <Component id="lblMenuRestaurante" min="-2" max="-2" attributes="0"/>
-              <EmptySpace pref="111" max="32767" attributes="0"/>
+              <EmptySpace pref="113" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -107,7 +107,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Segoe UI Black" size="18" style="2"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="MENU RESTAURANTE"/>
+        <Property name="text" type="java.lang.String" value="MENU LANCHONETE"/>
       </Properties>
     </Component>
   </SubComponents>

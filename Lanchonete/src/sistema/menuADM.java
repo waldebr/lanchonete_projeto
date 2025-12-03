@@ -32,7 +32,7 @@ public class menuADM extends javax.swing.JFrame {
         setTitle("ADMINISTRADOR");
 
         lblMenuRestaurante.setFont(new java.awt.Font("Segoe UI Black", 2, 18)); // NOI18N
-        lblMenuRestaurante.setText("MENU RESTAURANTE");
+        lblMenuRestaurante.setText("MENU LANCHONETE");
 
         menuCadastrarADM.setText("Cadastrar");
 
@@ -87,7 +87,7 @@ public class menuADM extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(88, 88, 88)
                 .addComponent(lblMenuRestaurante)
-                .addContainerGap(111, Short.MAX_VALUE))
+                .addContainerGap(113, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
